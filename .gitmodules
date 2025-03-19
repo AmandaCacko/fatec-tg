@@ -1,0 +1,3 @@
+[submodule "medication-api"]
+	path = medication-api
+	url = https://github.com/AmandaCacko/medication-api
