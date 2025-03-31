@@ -1,3 +1,9 @@
 [submodule "medication-api"]
 	path = medication-api
 	url = https://github.com/AmandaCacko/medication-api
+[submodule "fatec-frontend-tg"]
+	path = fatec-frontend-tg
+	url = https://github.com/AmandaCacko/fatec-frontend-tg
+[submodule "fatec-backend-tg"]
+	path = fatec-backend-tg
+	url = https://github.com/AmandaCacko/fatec-backend-tg
